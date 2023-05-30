@@ -1,3 +1,7 @@
+//Snake and ladders game
+//This code should be executed in turbo+
+//Have fun playing this game
+
 #include<iostream.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -167,3 +171,5 @@ void play_dice(int & score)
         score = 100;
     }
 }
+
+//This code is developed by Sarthak Kulkarni
